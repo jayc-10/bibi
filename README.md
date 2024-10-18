@@ -3,6 +3,11 @@ General webpage to help me learn introductory HTML/CSS on my own (self-study woo
 
 (Note: followers list hard coded as of 10/17/24.)
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="publication/sample1.png" alt="initial" width="49%" style="margin-right: 10px;" />
+  <img src="publication/sample2.png" alt="socials" width="49%" />
+</div>
+
 ## Songs & Albums
 Main image links to her spotify artist profile and each sub-images link to their publication accordingly. Listed works aren't entire discography but more of my favorites, hope you enjoy!
 
