@@ -9,7 +9,9 @@ General webpage to help me learn introductory HTML/CSS on my own (self-study woo
 </div>
 
 ## TRACKS
-Main image links to her spotify artist profile and each sub-images link to their publication accordingly. Listed works aren't entire discography but more of my favorites, hope you enjoy!
+Main image links to her artist profile and each sub-image link to their publication accordingly. 
+
+Listed works aren't her entire discography but more of just my favorites, hope you enjoy!
 
 - 1: 비누
   - 비누
@@ -64,4 +66,4 @@ Main image links to her spotify artist profile and each sub-images link to their
   - Sugar Rush
 
 ## PARAGUAY
-You're probably wondering why there's a flag of Paraguay at the bottom of the webpage. I got asked that in a club interview, so I practiced it AFTER and actually did it correctly this time (oops 😍).
+You're probably wondering why there's a flag of Paraguay at the bottom of the webpage. I got asked to make it during a skill showcase, so I practiced it AFTER and actually did it correctly this time (oops 😍).
