@@ -1,0 +1,64 @@
+/* Paragraph Styles */
+p {
+    color: #f1ebe1; 
+    font-family: verdana;
+    font-size: 12px;
+    text-align: center;
+    background-color: #6a8069;
+}
+
+/* Table Styles */
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    font-family: verdana;
+    font-size: 11px;
+    color: #f1ebe1;
+    background-color: #8ba888;
+    width: 100%;
+    table-layout: fixed;
+}
+
+th, td {
+    padding: 6px;
+}
+
+th{
+    text-align: left;
+}
+
+/* Classes */
+.top {
+    background-color: #6a8069;
+    text-align: center;
+    font-weight: normal;
+}
+
+.release {
+    white-space: nowrap;
+}
+
+.flag-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.red {
+    background-color: #D52B1E;
+    width: 200px;
+    height: 37px;
+}
+
+.white {
+    background-color: white;
+    width: 200px;
+    height: 37px;
+    text-align: center
+}
+
+.blue {
+    background-color: #0038A8;
+    width: 200px;
+    height: 37px;
+}
