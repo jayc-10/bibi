@@ -8,7 +8,7 @@ General webpage to help me learn introductory HTML/CSS on my own (self-study woo
   <img src="publication/sample2.png" alt="socials" width="49%" />
 </div>
 
-## Songs & Albums
+## TRACKS
 Main image links to her spotify artist profile and each sub-images link to their publication accordingly. Listed works aren't entire discography but more of my favorites, hope you enjoy!
 
 - 1: 비누
@@ -63,5 +63,5 @@ Main image links to her spotify artist profile and each sub-images link to their
   - Bam Yang Gang
   - Sugar Rush
 
-## Paraguay
-You're probably wondering why there's a flag of paraguay at the bottom of the webpage. I got asked that in an interview, so I practiced it and actually did it correctly this time (oops 😍).
+## PARAGUAY
+You're probably wondering why there's a flag of Paraguay at the bottom of the webpage. I got asked that in a club interview, so I practiced it AFTER and actually did it correctly this time (oops 😍).
