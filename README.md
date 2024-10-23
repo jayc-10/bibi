@@ -1,17 +1,13 @@
-# BIBI ٩(ˊᗜˋ*)ﾉ
-General webpage to help me learn introductory HTML/CSS on my own (self-study woo !!).
-
-(Note: followers list hard coded as of 10/17/24.)
+## bibi ٩(ˊᗜˋ*)ﾉ
+General webpage to help me learn introductory HTML/CSS on my own (self-studying !!). I've always loved music and a good way I found to motivate myself was through work I am passionate about. I've made a webpage listing some of my favorites from her discography and I hope you enjoy them! The main image links to her artist profile and each sub-image link to their publication accordingly. 
 
 <div style="display: flex; justify-content: space-between;">
   <img src="publication/sample1.png" alt="initial" width="49%" style="margin-right: 10px;" />
   <img src="publication/sample2.png" alt="socials" width="49%" />
 </div>
 
-## TRACKS
-Main image links to her artist profile and each sub-image link to their publication accordingly. 
+## ᕕ( ᐛ )ᕗ tracks
 
-Listed works aren't her entire discography but more of just my favorites, hope you enjoy!
 
 - 1: 비누
   - 비누
@@ -47,7 +43,7 @@ Listed works aren't her entire discography but more of just my favorites, hope y
   - T
     - 88rising, Hikaru Utada, Warren Hue
 
-- 9ALBUM: Lowlife Princess: Noir
+- 9AL: Lowlife Princess: Noir
   - Intro
   - Blade
   - BIBI Vengeance
@@ -65,5 +61,7 @@ Listed works aren't her entire discography but more of just my favorites, hope y
   - Bam Yang Gang
   - Sugar Rush
 
-## PARAGUAY
-You're probably wondering why there's a flag of Paraguay at the bottom of the webpage. I got asked to make it during a skill showcase, so I practiced it AFTER and actually did it correctly this time (oops 😍).
+## paraguay ୧( ˵ ° ~ ° ˵ )୨
+"WHY IS THERE A FLAG OF PARAGUAY AT THE BOTTOM 😭😭😭"
+
+Here's the story — I had a skill showcase for a club interview and I actually didn't know how to write it at the time. Afterwards, I learned the rest of HTML/CSS I was missing and I finally got it down! To challenge myself, I made the flag again but this time I made it perfect. YAY PARAGUAY !!! (I didnt't make the club 💀)
